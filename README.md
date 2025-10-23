@@ -1,2 +1,1 @@
-# game
-this is my first game coding
+Hello GitHub!
